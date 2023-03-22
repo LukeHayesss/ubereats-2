@@ -131,7 +131,7 @@ export default function ViewCart({navigation}) {
     justifyContent: 'center',
     flexDirection: 'row',
     position: 'absolute',
-    bottom: 180,
+    bottom: 190,
     zIndex: 999,
     }}
     >
@@ -153,7 +153,7 @@ export default function ViewCart({navigation}) {
             }}
             onPress={() => setModalVisible(true)}
             >
-      <Text style={{color: 'white', fontSize: 20, marginRight: 30}}>
+      <Text style={{color: 'white', fontSize: 20, marginRight: 40}}>
         View Cart
       </Text>
       <Text style={{color: 'white', fontSize: 20}}>

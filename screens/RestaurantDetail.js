@@ -19,7 +19,7 @@ const foods = [
       image: 'https://cdn.shopify.com/s/files/1/0493/3061/8524/articles/GJ16a1y2HDD3gYjmojg2t_1000x.jpg?v=1646021297'
   },
   {
-      title: 'Fried Vietnamese Chicken',
+      title: 'Vietnamese Chicken',
       description: 'Chicken things with flavour things, texture things, ooh fancy',
       price: '$23.99',
       image: 'https://assets.bonappetit.com/photos/57aded0a1b33404414975721/master/w_1280%2Cc_limit/vietnamese-fried-chicken-thighs-with-garlic-chile-glaze.jpg'
